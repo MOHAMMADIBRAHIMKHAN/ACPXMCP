@@ -1,5 +1,7 @@
 # ACPXMCP - AI Agent Communication Platform
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)  ![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-teal?logo=fastapi)  ![Flask](https://img.shields.io/badge/Flask-2.3+-orange?logo=flask)  ![CrewAI](https://img.shields.io/badge/CrewAI-Enabled-green)  ![SmoLAgents](https://img.shields.io/badge/SmoLAgents-Running-purple)  
+
 A powerful AI agent communication platform that integrates multiple AI frameworks for enhanced agent interactions and task execution.
 
 ## 🚀 Tech Stack
